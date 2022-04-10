@@ -30,8 +30,3 @@ def takeCommand():
             return query.low
 
 
-#changing 
-#changing 
-#changing 
-#changing 
-#changing 
